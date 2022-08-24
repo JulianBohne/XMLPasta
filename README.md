@@ -17,4 +17,4 @@ Simple XML (1.0) Parser written in Java
 
 ## Limitations
 - Only supports xml 1.0 spec
-- Only accepts a String of the entire
+- Only accepts a String of the entire xml file (no streams or similar)
