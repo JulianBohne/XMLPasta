@@ -12,7 +12,7 @@ Simple XML (1.0) Parser written in Java
 ## Nice Things
 - When an error occurs while parsing, the exception contains a nicely formatted string about what happened where
 - When you set the DEBUG boolean in the XMLParser to true, parsing will log information about all the steps and errors in the console
-- Convert an node tree back to a string by calling 'toString' on the root node
+- Convert a node tree to a string by calling 'toString' on the root node
 - Not dependent on anything
 
 ## Limitations
